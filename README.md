@@ -16,5 +16,5 @@ wget https://raw.githubusercontent.com/Nirob3x/BigFileHoster/main/Install.sh && 
 
 
 <h1> Visit My Web </h1>
-<a href="http://voicebharat.com/">VoiceBharat.com</a>
+<a href="https://voicebharat.com/">VoiceBharat.com</a>
 
